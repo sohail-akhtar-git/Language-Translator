@@ -1,2 +1,1 @@
-# Language-Translator
-A python project which can translate any language into a particular language.
+<h1 align="center">Language-Translator</h1>
