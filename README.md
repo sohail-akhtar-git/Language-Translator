@@ -4,7 +4,6 @@
 
 </h4>
 <hr>
-<hr>
 <h1>Features
 </h1>
 <h4>
@@ -16,7 +15,6 @@
 
 </h4>
 <hr>
-<hr>
 
 <h1>System Requirements
 </h1>
@@ -24,26 +22,8 @@
 The Simple Language Translator Program is designed to be compatible with various operating systems, including Windows, macOS, and Linux. To run the application, ensure that you have the following installed on your system:
 
 1. Python 3.x: The program is implemented in Python, so you need Python 3.x installed on your machine.
-    <br>
+<br>
 2.Internet Connection: As the translator uses an external API for language translation, an active internet connection is required.
 </h4>
 <hr>
-<hr>
-
-<h1>Installation and Setup
-</h1>
-<h4>
-  Clone the Repository: Begin by cloning the project repository from GitHub using the following command:
-git clone https://github.com/your-username/simple-language-translator.git
-
-  
-Navigate to the Project Directory: Move into the project directory with the following command:
-
-cd Language-Translator
-
-
-Install Dependencies: Install the required dependencies for the translator using pip:
-
-pip install -r requirements.txt
-</h4>
 
