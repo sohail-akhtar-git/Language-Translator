@@ -21,6 +21,9 @@
 <h4>
 The Simple Language Translator Program is designed to be compatible with various operating systems, including Windows, macOS, and Linux. To run the application, ensure that you have the following installed on your system:
 
+<br>
+<br>
+
 1. Python 3.x: The program is implemented in Python, so you need Python 3.x installed on your machine.
 <br>
 2.Internet Connection: As the translator uses an external API for language translation, an active internet connection is required.
